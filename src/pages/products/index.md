@@ -3,7 +3,7 @@ heading: Great coffee with a conscience
 path: /products
 templateKey: product-page
 title: Our Coffee
-image: /img/a1099166-7d1f-4f6a-baad-6f23f21b62de_1_201_a.jpeg
+image: /img/flavor_wheel.jpg
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
