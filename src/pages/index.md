@@ -4,7 +4,7 @@ title: Great coffee with a conscience
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience!!!
 subheading: Support sustainable farming while enjoying a cup...
-subheadingh4: h4...
+subheadingh4: мій заголовок
 mainpitch:
   title: Why Kaldi..
   description: >
